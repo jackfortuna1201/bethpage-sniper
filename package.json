@@ -1,0 +1,16 @@
+{
+  "name": "bethpage-sniper",
+  "version": "1.0.0",
+  "description": "Bethpage tee time sniper",
+  "main": "src/sniper.js",
+  "scripts": {
+    "start": "node src/sniper.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "twilio": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
